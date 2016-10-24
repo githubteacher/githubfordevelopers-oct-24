@@ -1,9 +1,15 @@
 # Milwaukee, WI
 
-### Places to go
+### Places to Eat
+- Rockbottom Brewery
 
+### Places to Go
+- Miller Headquarters
+- Lakefront
+- Milwaukee County Zoo
 
-### Places to eat
+### Places to Avoid
+- I-45 Contruction
 
-
-### Places to avoid
+### Fun Facts
+- In Potawatomi means "Concil Grounds"
