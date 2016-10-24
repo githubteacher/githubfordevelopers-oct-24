@@ -1,6 +1,3 @@
-# githubfordevelopers-oct-24
-GitHub for Developers
-
 # GitHub for Developers
 
 - October 24-25, 2016
