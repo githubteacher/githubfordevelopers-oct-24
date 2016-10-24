@@ -8,6 +8,8 @@
 
 -- Local shopping center
 
+-- Museum
+
 ### Places to Avoid
 
 
