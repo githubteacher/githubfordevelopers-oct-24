@@ -1,10 +1,10 @@
 # Montreal, Quebec
 
 ### Places to Eat
-Chez La Mere Michel
-Schwartz's Montreal Hebrew Delicatessen
-Kojax Souvlaki
-Prince Arthur Street 
+Chez La Mere Michel - Fine dining
+Schwartz's Montreal Hebrew Delicatessen Casual, crowded but a montrela institutions
+Kojax Souvlaki - Popular after a night out downtown, casual greek fast food.
+Prince Arthur Street - "estaurant Row, a wide variety of food options
 
 
 ### Places to Visit
