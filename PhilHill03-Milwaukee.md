@@ -5,7 +5,7 @@
 
 ### Places to Go
 - Miller Headquarters
-- Lakefront
+- Lake Michigan shoreline / Lafefront
 - Milwaukee County Zoo
 
 ### Places to Avoid
