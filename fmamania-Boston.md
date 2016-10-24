@@ -1,7 +1,7 @@
 # Boston, MA
 
 ### Places to Eat
-- Mike's Pastry
+- Mike's Pastry (Must try the Chocolate chip cannoli)
 - J. P. Licks ice cream
 
 ### Places to Visit
