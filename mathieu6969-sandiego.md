@@ -12,4 +12,4 @@
 - East of Downtown
 
 ### Fun Facts
-- Have apple pie in Julian
+- Have apple pie in Julian, north east of San Diego
