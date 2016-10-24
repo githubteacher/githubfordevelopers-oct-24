@@ -1,7 +1,7 @@
 # San Francisco, CA
 
 ### Places to Eat
-- Ghiradelli
+- Ghiradelli (Try the ice cream sundaes!)
 -
 
 ### Places to Visit
