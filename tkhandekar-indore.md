@@ -13,4 +13,4 @@
 - juni Indore
 
 ### Fun Facts
-- twisted way of saying things.
+- Twisted way of saying things.
