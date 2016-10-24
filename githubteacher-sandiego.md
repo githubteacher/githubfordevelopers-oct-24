@@ -7,6 +7,8 @@
 ### Places to Visit
 - Balboa Park
 - Coronado Island
+- San Diego Zoo
+- Wild Animal Park
 
 ### Places to Avoid
 - Sea World
