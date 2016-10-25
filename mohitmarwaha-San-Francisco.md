@@ -13,3 +13,4 @@
 
 ### Fun Facts
 - SFO is always cooler than the rest of the cities around
+- Its the most diverse cities you can find
