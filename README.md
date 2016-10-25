@@ -7,6 +7,10 @@
 
 [![Gitter](https://badges.gitter.im/githubteacher/githubfordevelopers-oct-24.svg)](https://gitter.im/githubteacher/githubfordevelopers-oct-24?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge) 
 
+## Give Us Feedback
+
+Please take a moment to complete the class survey at: http://www.surveygizmo.com/s3/3129009/9ac0ef5c9108.
+
 ## Scripts for Adding Files
 
 - **Bash:** `for d in {1..6}; do touch file$d.md; git add file$d.md; git commit -m "adding file $d"; done`
@@ -20,13 +24,3 @@
 ## Playgrounds for practicing branching
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
 - [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
-
-#bangalore CA
-
-###Places to GO
-
-
-### Places to visit 
-
-### Places to Eat
- - MTR tiffen 
